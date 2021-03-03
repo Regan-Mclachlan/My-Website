@@ -1,6 +1,8 @@
 body {
-    background-color: lightgrey;
-}
+    background: #ddcbcb url(Images/Background.jpg) no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+  }
 .bio{
    
 }
